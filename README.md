@@ -1,4 +1,4 @@
 XBMCLib2Excel
 =============
 
-Your xbmc xml lib file export like an awesome excel file 
+Your xbmc xml lib file converted into an awesome excel file 
